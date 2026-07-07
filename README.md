@@ -1,12 +1,13 @@
-# Qonaq.ai — AI-powered Property Management System for Kazakhstan
-
-**Live product:** https://qonaq-ai.vercel.app · **Guest booking demo:** https://qonaq-ai.vercel.app/book/kvartirnoe-byuro-ai
+[![Live product](https://img.shields.io/badge/▶_Live_product-qonaq--ai.vercel.app-2ea44f?style=for-the-badge)](https://qonaq-ai.vercel.app)
+[![Guest booking demo](https://img.shields.io/badge/▶_Guest_booking_demo-Try_it-1f6feb?style=for-the-badge)](https://qonaq-ai.vercel.app/book/kvartirnoe-byuro-ai)
 
 > Qonaq (қонақ) means "guest" in Kazakh.
 
+# Qonaq.ai — AI-powered Property Management System for Kazakhstan
+
 Qonaq.ai is a full-featured PMS built for the underserved market of small hospitality businesses in Kazakhstan — mini-hotels, serviced apartments, and hostels that today run on paper notebooks, Excel, and WhatsApp chats. Global PMS products are too expensive and ignore local realities: Kaspi payments, WhatsApp as the primary booking channel, mandatory e-Qonaq migration reporting for foreign guests, and the Kazakh language.
 
-*This is a showcase repository — the product source code is private. Happy to walk through the codebase or give reviewer access on request.*
+*This is a showcase repository — the product source code is private for security reasons (payment integrations, guest data). The live product and guest booking demo are linked above. A guided code walkthrough is available for reviewers.*
 
 ## The problem
 
