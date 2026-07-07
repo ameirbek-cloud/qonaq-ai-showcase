@@ -34,11 +34,11 @@ Kazakhstan has thousands of small accommodation businesses (2–30 units). Their
 - AI business insights over occupancy, channels, and unit performance
   
 ## Screenshots
-<img width="1195" height="794" alt="Снимок экрана 2026-07-07 в 23 58 33" src="https://github.com/user-attachments/assets/01058970-1955-4d0a-97c0-8b1bdf9dba7d" />
+<img width="1195" height="794" alt="Снимок экрана 2026-07-07 в 23 58 33" src="https://github.com/user-attachments/assets/9a11f560-31a5-4705-9f2b-45cad6e4b60d" />
 
-<img width="1180" height="794" alt="Снимок экрана 2026-07-07 в 23 58 50" src="https://github.com/user-attachments/assets/1836e42a-e461-4476-9dc1-1f5b4b1dac85" />
+<img width="1180" height="794" alt="Снимок экрана 2026-07-07 в 23 58 50" src="https://github.com/user-attachments/assets/f88578ad-1f5e-479d-ac35-115b46c58ea1" />
 
-<img width="1184" height="754" alt="Снимок экрана 2026-07-08 в 00 00 04" src="https://github.com/user-attachments/assets/347ee2da-9c49-433b-b25d-54d3b9decf9a" />
+<img width="1184" height="754" alt="Снимок экрана 2026-07-08 в 00 00 04" src="https://github.com/user-attachments/assets/0d8d2b26-6afc-42cb-8cda-4622f7823464" />
 
 ## Tech
 
